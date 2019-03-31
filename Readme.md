@@ -1,7 +1,7 @@
 # Личный проект «Кэт энерджи» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Василий Давыдов](https://up.htmlacademy.ru/adaptive/16/user/930787).
-* Наставник: `Неизвестно`.
+* Наставник: [Денис Быков](https://htmlacademy.ru/profile/id66426).
 
 ---
 
